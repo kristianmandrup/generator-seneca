@@ -1,9 +1,12 @@
-# generator-seneca [![Build Status](https://secure.travis-ci.org/jrpruit1/generator-seneca.png?branch=master)](https://travis-ci.org/jrpruit1/generator-seneca)
+Generator Seneca [![Build Status](https://secure.travis-ci.org/jrpruit1/generator-seneca.png?branch=master)](https://travis-ci.org/jrpruit1/generator-seneca)
+=============================================================================================================================================================
+
+=============================================================================================================================================================
 
 > [Yeoman](http://yeoman.io) generator
 
-
-## Getting Started
+Getting Started
+---------------
 
 ### What is Yeoman?
 
@@ -43,18 +46,18 @@ Once installed, you can start the server with the Seneca process and the angular
 npm start
 ```
 
-Once that is running, you can run the tests in `test/functional` with protractor by running in a separate tab:
+Once that is running, you can run the tests in `test/e2e` with protractor by running in a separate tab:
 
 ```bash
 npm test
 ```
 
-If you'd like to get to know Yeoman better and meet some of his friends, [Grunt](http://gruntjs.com) and [Bower](http://bower.io), check out the complete [Getting Started Guide](https://github.com/yeoman/yeoman/wiki/Getting-Started).
+Help
+----
 
-## Help
+If you need any help or want to learn more about Seneca and the choices of this starter template, email me at kmandrup@gmail.com or tweet me @kmandrup :)
 
-If you need any help or want to learn more about Seneca and the choices of this starter template, email me at jrpruit1@asu.edu, or tweet at me @jakepruitt :)
-
-## License
+License
+-------
 
 MIT
